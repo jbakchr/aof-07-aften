@@ -1,5 +1,5 @@
 """
-Skriv et program, der kun udskriver de ulige tal fra nedenstående liste med tal. Brug en for-løkke og fortsæt med at springe over lige tal.
+Skriv et program, der kun udskriver de ulige tal fra nedenstående liste med tal. Brug en for-løkke og "continue" til at springe lige tal over.
 
 Læg mærke til, at outputtet af dit program skal være følgende (dvs. et output på kun én linje!):
 1 3 5 7 9
