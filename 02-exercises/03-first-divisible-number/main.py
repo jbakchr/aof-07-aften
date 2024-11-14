@@ -30,10 +30,3 @@ numbers = [
     15,
     51,
 ]
-
-divisor = int(input("Indtast et tal: "))
-
-for num in numbers:
-    if num % divisor == 0:
-        print(f"Første delelige tal er: {num}")
-        break
