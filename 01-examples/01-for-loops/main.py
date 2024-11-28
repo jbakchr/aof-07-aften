@@ -43,4 +43,5 @@ for fruit in fruits:
 # Eksempel 2.6 - 'nested' for loops (dvs. et loop i et loop)
 for i in range(1, 4):
     for j in range(1, 4):
-        print(f"Eksempel 2.6: {i} {j}")
+        for k in range(1, 4):
+            print(f"Eksempel 2.6: {i} {j} {k}")

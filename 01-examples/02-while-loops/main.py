@@ -2,6 +2,9 @@
 Eksempler på brugen af 'while loops'
 """
 
+while True:
+    print("Hello world!")
+
 # Eksempel 1 - while loop med betinget variabel
 num1 = 1
 while num1 <= 5:

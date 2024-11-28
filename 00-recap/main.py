@@ -14,8 +14,8 @@ person = {
         {"type": "kid", "name": "Edgar", "age": 10},
     ],
 }
-
-name = person["name"]
+x = "name"
+name = person[x]
 age = person.get("age")
 
 person["is_awesome"] = True
